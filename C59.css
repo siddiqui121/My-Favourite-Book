@@ -1,0 +1,13 @@
+body{
+background-color:lightgreen;
+text-align:center;
+}
+h1{
+color:blue;
+border-style:dotted;
+border-color:yellow;
+border-width:4px;
+padding:3px;
+}
+img{
+height:250px;
